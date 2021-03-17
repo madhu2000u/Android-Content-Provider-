@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewProvider1</string>
+    <string name="content_provider_app">Content Provider App</string>
+    <string name="enter_employee_name">Enter Employee Name</string>
+    <string name="enter_designation">Enter Designation</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+</resources>
